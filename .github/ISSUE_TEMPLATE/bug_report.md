@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Create a bug report to help us improve the WISE Token website
 title: "[BUG] **Type a descriptive title here**"
 labels: bug
 assignees: coffee-converter
