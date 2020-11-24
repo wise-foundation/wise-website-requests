@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: WISE Website Feature Request
 about: Suggest an idea or new feature for the WISE Token website
 title: "[FEATURE] **Type a descriptive title here**"
 labels: enhancement
